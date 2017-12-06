@@ -1,0 +1,6 @@
+A B 
+a e b d
+A:aABe
+A:a
+B:Bb
+B:d

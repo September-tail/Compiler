@@ -1,0 +1,11 @@
+S H K L M
+a o d e b f
+S:MH
+S:a
+H:LSo
+H:ε
+K:dML
+K:ε
+L:eHf
+M:K
+M:bLM

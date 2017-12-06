@@ -1,0 +1,74 @@
+   1:Const x=8,y=7;
+      1:  Reserved words : Const
+      1:  Identifier : x
+      1:  =
+      1:  Number  : 8
+      1:  ,
+      1:  Identifier : y
+      1:  =
+      1:  Number  : 7
+      1:  ;
+   2:Var a,b,c;
+      2:  Reserved words : Var
+      2:  Identifier : a
+      2:  ,
+      2:  Identifier : b
+      2:  ,
+      2:  Identifier : c
+      2:  ;
+   3:begin
+      3:  Reserved words : begin
+   4:read(b); 
+      4:  Reserved words : read
+      4:  (
+      4:  Identifier : b
+      4:  )
+      4:  ;
+   5:a=b+x;
+      5:  Identifier : a
+      5:  =
+      5:  Identifier : b
+      5:  +
+      5:  Identifier : x
+      5:  ;
+   6:
+   7:if a>0
+      7:  Reserved words : if
+      7:  Identifier : a
+      7:  >
+      7:  Number  : 0
+   8:then 
+      8:  Reserved words : then
+   9:begin
+      9:  Reserved words : begin
+  10:c=y -;
+      10:  Identifier : c
+      10:  =
+      10:  Identifier : y
+      10:  -
+      10:  ;
+  11:a=a+2;
+      11:  Identifier : a
+      11:  =
+      11:  Identifier : a
+      11:  +
+      11:  Number  : 2
+      11:  ;
+  12:end
+      12:  Reserved words : end
+  13:else
+      13:  Reserved words : else
+  14:begi
+      14:  Identifier : begi
+  15:c=a+y;
+      15:  Identifier : c
+      15:  =
+      15:  Identifier : a
+      15:  +
+      15:  Identifier : y
+      15:  ;
+  16:end
+      16:  Reserved words : end
+  17:
+  18:write(a);
+      18:  Reserved words : write

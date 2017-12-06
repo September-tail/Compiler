@@ -1,0 +1,35 @@
+A B C D E F G H I J K L M N O W N
+, ; = ε + * c v b e a b x y
+A:BCD
+B:EF
+E:c
+F:F,
+F:F;
+F:W=N
+B:ε
+C:HG
+H:v
+G:W,
+G:W;
+C:ε
+D:IJK
+I:b
+K:e
+J:J
+J:J;
+J:L
+L:W=M
+M:N
+N:+N
+N:O
+O:*O
+O:W
+D:ε
+W:x
+W:y
+W:a
+W:b
+O:x
+O:y
+O:a
+O:b

@@ -1,0 +1,6 @@
+const x=8,y=7; 
+Var a,b; 
+begin 
+	a=x+y; 
+	b=a*x;
+end

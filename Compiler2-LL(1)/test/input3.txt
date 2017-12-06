@@ -1,0 +1,7 @@
+E T
++ i * ( )
+E:T
+E:T+E
+T:i
+T:i*T
+T:(E)
